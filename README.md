@@ -1,3 +1,4 @@
+![IMG_8830](https://github.com/user-attachments/assets/abc893f3-dd62-47d3-99df-4b8cda2bcaf0)
 I am a dedicated Full-Stack Engineering student at Atlas School, graduating in May 2026, with a passion for front-end development and crafting user-friendly digital experiences. My goal is to work with a local company where I can continue to grow my technical skills and contribute to impactful projects.
 
 Before transitioning into tech, I spent nine years in customer service as a hairstylist, including three years as a general manager. This experience honed my problem-solving abilities, attention to detail, and leadership skills—qualities I now bring to my work as a developer.
